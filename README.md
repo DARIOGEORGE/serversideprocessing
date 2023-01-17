@@ -131,7 +131,8 @@ urlpatterns = [
 
 
 ## OUTPUT:
-![output](./dario/static/images/ou7.png)
+![ou7](https://user-images.githubusercontent.com/118704873/212821163-597bb75a-6815-48ca-a239-dbd51764cb41.png)
+
 
 
 ## Result:
